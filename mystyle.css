@@ -1,0 +1,167 @@
+.maindiv
+{
+    background-color: lightcoral;
+    height: 115px;
+    width: 100%;
+    display: flex;
+    
+}
+.heading
+{
+    color:blue;
+    font-size: xx-large;
+}
+.ike
+{
+    list-style-type: none; 
+    padding-right: 20px;
+    color: aliceblue;
+    font-size: xx-large;
+}
+li
+{
+    padding-right: 10px;
+    font-size: x-large;
+    color: aliceblue;
+    display: inline-flex;
+    padding-top: 30px;
+}
+.secondiv2
+{
+    background-color: cornflowerblue;
+}
+.div1
+{
+    height: 150px;
+    width: 500px;
+    display: flex;
+}
+.blank
+{
+    background-color: cornsilk;
+    width: 100%;
+    height: 20%;
+}
+.M 
+{
+    color: cornsilk;
+}
+.secondiv
+{
+   background-color: cornflowerblue;
+   height: 300px;
+   width: 100%;
+   display: flex;
+}
+img
+{
+    height: 40%;
+    width: 20%;
+    padding-top: 30px;
+    justify-content: space-around;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.qn
+{
+    align-content: center;
+    color: red;
+    font-size: xx-large;
+    padding-left: 00%;
+}
+.info
+{
+    color: blue;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 30%;
+}
+.more
+{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    padding-left: 33%;
+}
+.last
+{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    padding-left: 35%;
+}
+a
+{
+    color: aliceblue;
+    text-decoration-style: none;
+    text-decoration: none;
+}
+.images
+{
+    height: 100px;
+    width: 550px;
+    background-color: aliceblue;
+    padding-left: 50px;
+    padding-top: 25px;
+}
+.c1
+{
+    color: lightcoral;
+}
+.leno
+{
+    height: 155px;
+    padding-top: 60px;
+}
+.main2
+{
+    align-content: center;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    text-align: center;
+    height: 300px;
+}
+.distinct
+{
+    color: black;
+    background-color: paleturquoise;
+}
+a:hover{
+    background-color: black;
+}
+.bordre
+{
+    border-radius: 25%;
+}
+button
+{
+    background-color: #005e46;
+    border-radius: 25%;
+    color: burlywood;
+    font-size: x-large;
+}
+.quest
+{
+    color: aliceblue;
+    background-color: cadetblue;
+    font-size: x-large;
+    font-style: italic;
+}
+h2
+{
+    color: midnightblue;
+}
+.book1
+{
+    background-color: paleturquoise;
+}
+.mike
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.book2
+{
+    background-color: rebeccapurple;
+}
